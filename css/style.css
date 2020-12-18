@@ -1,0 +1,42 @@
+.logo img{width: 250px}
+.nav a{font-size: 20px;font-weight:600;color: #333 }
+.banner-section .row{padding: 100px 100px 100px 0;}
+.banner-section h5{color: red; padding-bottom: 30px}
+.banner-section h1{font-size:50px ;font-weight:700 ;padding-bottom: 50px}
+.banner-section h1 span{color: #21b573;}
+.banner-section p{font-size: 14px,color:#333;padding-bottom: 50px}
+.button{color: #21b573;}
+.banner-section col-7 img{width:750px }
+.banner-section col-7 {padding-right: 100px}
+.col-7 img{width: 720px;
+    height: 480px;
+}
+.col-5 button{padding-bottom: 20px}
+.four img{width: 80px;}
+.one img{width: 100px;}
+.two img{width: 100px;}
+.three img{width: 100px;}
+.col-3{text-align: center;}
+.photo{padding-top: 50px}
+.col-xl-4 h3{color:#3d0771 ;}
+.col-xl-4 p{color: #333;font-size: 15px}
+.col-xl-4
+.col-xl-4
+.headline {text-align: center;}
+.headline h2{color:#3d0771;font-size: 40px ; font-weight: 700;padding-top: 100px;text-align: center;padding-bottom: 50px}
+.col-4 img{width:150px;}
+.col-8{padding-top: 40px;padding-right: 200px}
+.col-8 p{color: #333;font-weight: 600}
+.col-4{padding-left: 220px;
+}
+.view{padding-bottom: 50px}
+.footer{background-color: #333;}
+.footer p{color:#fff }
+.footer h5{color:#fff }
+.footer h6{color: #fff}
+.col-4-1{width: 40%;padding-top: 50px}
+.col-8{width: 60%}
+.col-4-2{width: 33.33%;padding-left: 90px}
+.col-4-1{width:40%}
+nav ul{list-style: none;}
+nav ul li a{text-decoration: none}
